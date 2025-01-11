@@ -1,8 +1,6 @@
-Frontend of MERN Stack Project
-
 This is the frontend of a MERN stack project built using React and Vite. The project includes components for rendering charts with Chart.js, data fetching via Axios, and communication with the backend through an Express server.
-Features
 
+Features:-
   - Chart.js Integration: Displays interactive charts using data fetched from the backend.
   - Axios for API Calls: Makes HTTP requests to the backend to retrieve or send data.
   - CORS Handling: Configures CORS to allow cross-origin requests from the frontend to the backend.
@@ -17,9 +15,10 @@ Prerequisites:-
 
 Steps to Set Up:-
 
-  Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/TheBinaryCoder0/TRANSACTION_SALES_PROJECT.git
+  Clone the repository to your local machine
+  ```bash
+  git clone https://github.com/TheBinaryCoder0/TRANSACTION_SALES_PROJECT.git
+  ```
 
 Navigate to the frontend directory:
     ```bash
