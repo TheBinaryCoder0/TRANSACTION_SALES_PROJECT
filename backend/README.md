@@ -14,7 +14,6 @@ Follow these steps to install the necessary dependencies:
 
     Dependencies:
       This project uses the following npm packages:
-      ```markdown
        - axios: Promise-based HTTP client for the browser and Node.js
        - cors: Package to enable Cross-Origin Resource Sharing
        - dotenv: Loads environment variables from a .env file
