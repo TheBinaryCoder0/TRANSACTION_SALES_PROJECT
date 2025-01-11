@@ -24,19 +24,23 @@ Navigate to the frontend directory:
     ```bash
     cd frontend
     ```
+    
 Install the dependencies:
     ```bash
     npm install
     ```
+    
 Create a .env file in the root of the frontend directory to store environment variables, such as API URLs:
     ```bash
     VITE_API_URL=http://localhost:5000
     ```
+    
 Run the development server:
     ```bash
     npm run dev
     ```
-  Your frontend should now be running at http://localhost:5137 (CHANGE ACCORDINGLY)
+    
+Your frontend should now be running at http://localhost:5137 (CHANGE ACCORDINGLY)
 
 Dependencies:-
 
