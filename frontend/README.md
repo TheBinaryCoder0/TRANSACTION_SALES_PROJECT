@@ -15,35 +15,30 @@ Prerequisites:-
 
 Steps to Set Up:-
 
-  Clone the repository to your local machine
+  Clone the repository to your local machine:
   
-  ```
-   git clone https://github.com/TheBinaryCoder0/TRANSACTION_SALES_PROJECT.git
-  ```
-
+     git clone https://github.com/TheBinaryCoder0/TRANSACTION_SALES_PROJECT.git
+     
 Navigate to the frontend directory:
 
-    ```
     cd frontend
-    ```
     
 Install the dependencies:
 
-    ```
     npm install axios@^1.7.9 chart.js@^4.4.7 chartjs-plugin-datalabels@^2.2.0 cors@^2.8.5 dotenv@^16.4.7 http-proxy-middleware@^3.0.3 react@^18.3.1 react-chartjs-2@^5.3.0 react-dom@^18.3.1
-    ```
+    
     
 Create a .env file in the root of the frontend directory to store environment variables, such as API URLs:
 
-    ```
+    
     VITE_API_URL=http://localhost:5000
-    ```
+    
     
 Run the development server:
 
-    ```
+    
     npm run dev
-    ```
+    
     
 Your frontend should now be running at http://localhost:5137 (CHANGE ACCORDINGLY)
 
@@ -68,17 +63,16 @@ Development:-
 Run the project:-
 
 To start the development server and view the application:
-    ```
+    
     npm run dev
-    ```
+    
     
 This will start the Vite development server, and you can view your application at http://localhost:3000.
 
 Building for Production:-
 
 To build the frontend for production:
-    ```
+    
     npm run build
-    ```
     
 This will create an optimized production build in the dist folder.
