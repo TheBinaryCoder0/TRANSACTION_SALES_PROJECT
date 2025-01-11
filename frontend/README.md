@@ -29,6 +29,10 @@ Install the dependencies:
     ```bash
     npm install
     ```
+
+    ```bash
+    npm install axios@^1.7.9 chart.js@^4.4.7 chartjs-plugin-datalabels@^2.2.0 cors@^2.8.5 dotenv@^16.4.7 http-proxy-middleware@^3.0.3 react@^18.3.1 react-chartjs-2@^5.3.0 react-dom@^18.3.1
+    ```
     
 Create a .env file in the root of the frontend directory to store environment variables, such as API URLs:
     ```bash
