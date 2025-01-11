@@ -17,8 +17,8 @@ Steps to Set Up:-
 
   Clone the repository to your local machine
   
-  ```bash
-  git clone https://github.com/TheBinaryCoder0/TRANSACTION_SALES_PROJECT.git
+  ```
+   git clone https://github.com/TheBinaryCoder0/TRANSACTION_SALES_PROJECT.git
   ```
 
 Navigate to the frontend directory:
