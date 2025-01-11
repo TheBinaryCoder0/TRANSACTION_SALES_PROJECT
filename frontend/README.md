@@ -23,19 +23,19 @@ Steps to Set Up:-
 Navigate to the frontend directory:
     ```bash
     cd frontend
-
+    ```
 Install the dependencies:
     ```bash
     npm install
-
+    ```
 Create a .env file in the root of the frontend directory to store environment variables, such as API URLs:
     ```bash
     VITE_API_URL=http://localhost:5000
-
+    ```
 Run the development server:
     ```bash
     npm run dev
-
+    ```
   Your frontend should now be running at http://localhost:5137 (CHANGE ACCORDINGLY)
 
 Dependencies:-
@@ -61,12 +61,12 @@ Run the project
 To start the development server and view the application:
     ```bash
     npm run dev
-
+    ```
 This will start the Vite development server, and you can view your application at http://localhost:3000.
 Building for Production
 
 To build the frontend for production:
     ```bash
     npm run build
-
+    ```
 This will create an optimized production build in the dist folder.
