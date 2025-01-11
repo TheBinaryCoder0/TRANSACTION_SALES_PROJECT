@@ -60,17 +60,20 @@ Development:-
     For development, you can modify components inside the src folder.
     Vite provides fast hot-reloading for an efficient development experience.
 
-Run the project
+Run the project:-
 
 To start the development server and view the application:
     ```bash
     npm run dev
     ```
+    
 This will start the Vite development server, and you can view your application at http://localhost:3000.
-Building for Production
+
+Building for Production:-
 
 To build the frontend for production:
     ```bash
     npm run build
     ```
+    
 This will create an optimized production build in the dist folder.
