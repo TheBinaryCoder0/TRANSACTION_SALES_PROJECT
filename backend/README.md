@@ -13,12 +13,14 @@ Follow these steps to install the necessary dependencies:
    npm install 
 
     Dependencies:
+   
       This project uses the following npm packages:
-       - axios: Promise-based HTTP client for the browser and Node.js
-       - cors: Package to enable Cross-Origin Resource Sharing
-       - dotenv: Loads environment variables from a .env file
-       - express: Fast, unopinionated web framework for Node.js
-       - mongoose: MongoDB object modeling tool designed to work in an asynchronous environment
+
+      - axios: Promise-based HTTP client for the browser and Node.js
+      - cors: Package to enable Cross-Origin Resource Sharing
+      - dotenv: Loads environment variables from a .env file
+      - express: Fast, unopinionated web framework for Node.js
+      - mongoose: MongoDB object modeling tool designed to work in an asynchronous environment
 
       ```bash
       npm i axios
@@ -27,8 +29,8 @@ Follow these steps to install the necessary dependencies:
       npm i express
       npm i mongoose
       
-3. Usage:
+4. Usage:
     To start the server,run:
     npm start
 
-4. Make sure to set the necessary environment variables in a .env file.
+5. Make sure to set the necessary environment variables in a .env file.
